@@ -3,7 +3,7 @@ Setup the ELK stack for Kubernetes/microservices
 
 First thing first, Please clone the repository to download the code locally
 ```
-git clone https://github.com/hussainaphroj/ELK-kubernetes.git  
+git clone https://github.com/sutrs/ELK-kubernetes.git  
 ```
 You haven't set up the Kubernetes cluster yet, Please clone my [Kubernetes setup repo](https://github.com/sutrs/kubernetes-cluster-setup) .   
 
